@@ -15,7 +15,7 @@
 >
 > AI did not do the research, run commands, nor detail which binaries have which capabilities based on imports
 >
-> All contents have been checked numerous times. If you think any point of this is unclear, underdocumented, or just a lie you can feel free to [DM me](https://x.com/DanielMcGu11144) for the original research documents or other evidense based on system files.
+> All contents have been checked numerous times. If you think any point of this is unclear, underdocumented, or just a lie you can feel free to [DM me](https://x.com/DanielMcGu11144) for the original research documents or other evidense based on system files. For reasons you might assume I will not under any circumstances share direct binaries or disassembly output.
 
 ```
 ERA = GameOS Partition
