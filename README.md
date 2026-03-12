@@ -71,6 +71,7 @@ All testing was performed on a single retail Xbox Series S unit in developer mod
 | ETL trace analysis | Windows Update pipeline via `S:\Deployment\SoftwareDistribution\` junction |
 | Live process dumps | `GET /api/debug/dump/usermode/live?pid=<pid>` |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Analysis of COM interfaces / drivers |
+| [XboxTools](https://github.com/DanielLMcGuire/xboxtools) | My own collection of C/C++ utilities for various things |
 
 ### Approach
 
