@@ -13,6 +13,8 @@ This report documents a static and dynamic analysis of the Xbox Series S interna
 
 This contains details from the highest level components used for gameplay, down to the lowest level system driver components.
 
+Most of these details are expected to be the same for the Xbox One, and the new "Xbox Mode" on PCs.
+
 ---
 
 ## Clarifications
