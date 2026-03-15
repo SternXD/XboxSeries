@@ -53,24 +53,6 @@ Extended topology
   Nodes per processor: 1
   Node ID: 0
 
-devtoolsuser@XBOX Q:\Users\DevToolsUser>D:\DevelopmentFiles\bin\clockspd
-Core 0 approximate frequency: 1745.47 MHz
-Core 1 approximate frequency: 1745.47 MHz
-Core 2 approximate frequency: 1745.47 MHz
-Core 3 approximate frequency: 1745.44 MHz
-Core 4 approximate frequency: 1745.47 MHz
-Core 5 approximate frequency: 1745.47 MHz
-Core 6 approximate frequency: 1745.47 MHz
-Core 7 approximate frequency: 1745.47 MHz
-Core 8 approximate frequency: 1745.47 MHz
-Core 9 approximate frequency: 1745.47 MHz
-Core 10 approximate frequency: 1745.46 MHz
-Core 11 approximate frequency: 1745.47 MHz
-Core 12 approximate frequency: 1745.47 MHz
-Core 13 approximate frequency: 1745.47 MHz
-Core 14 approximate frequency: 1745.46 MHz
-Core 15 approximate frequency: 1745.47 MHz
-
 devtoolsuser@XBOX Q:\Users\DevToolsUser>D:\DevelopmentFiles\bin\xkrnlid
 === Kernel Module Enumeration ===
 Loaded kernel modules (112):
