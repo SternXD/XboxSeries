@@ -152,7 +152,7 @@ The console exposes 13 drive letters, most undocumented:
 | `D:` | *(none)* | `DevelopmentFiles\` | Dev mode scratch space |
 | `G:` | *(none)* | `GameDVR_VideoBuffer` (272MB), `GameDVR_AudioBuffer` (16MB), `GameDVR_AudioBuffer_SysLoopback` (3MB) | Raw circular capture buffers, shared memory between ERA and SystemOS |
 | `J:` | Sys Tools | XTF toolchain, drivers, QuickActions | See Section 5 |
-| `M:` | System OS Misc | Contains the console specific NTFS overlays for libraries and drivers |
+| `M:` | Misc | Contains the console specific NTFS overlays for libraries and drivers | System OS partition?
 | `N:` | *(none)* | `BlackBox\`, `EtwPlus\`, `CMS\`, `errorstrings\`, `usersettings\` | Diagnostics and telemetry volume, see Section 3.2 |
 | `Q:` | *(none)* | `Users\DevToolsUser\` | user home directory |
 | `S:` | *(none)* | `apps\`, `Clip\`, `Deployment\`, `Prefetch\`, `Microsoft\`, `ProgramData\` | likely Host OS Volume (also contains default apps, and other resources) |
