@@ -131,7 +131,7 @@ The OS identifies as **SystemOS**, not Windows. The build branch `xb_flt_2602ge`
 
 ### 2.1 Deliberately Scrubbed Registry Identity
 
-Several `CurrentVersion` fields have been intentionally stripped or frozen:
+Several `CurrentVersion` fields have been intentionally stripped or frozen, similarly to desktop Windows:
 
 | Key | Value | Notes |
 |-----|-------|-------|
