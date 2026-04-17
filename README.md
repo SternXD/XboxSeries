@@ -99,13 +99,14 @@ The Device Portal at `https://XBOX:11443` exposes an undocumented NTFS file shar
 mklink /J D:\DevelopmentFiles\C C:\
 ```
 
-
 This creates a junction point from the developer scratch space to the system C: drive root, exposing the entire SystemOS filesystem as a readable network share at:
 ```
 \\XBOX\DevelopmentFiles\C
 ```
 
 This allows running tools like `dumpbin` from a PC directly against Xbox system binaries over the network.
+
+You can automate this using [this script](https://github.com/DanielLMcGuire/xboxtools/blob/master/mkmounts.cmd).
 
 ---
 
